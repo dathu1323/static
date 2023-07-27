@@ -1,0 +1,2 @@
+# static
+motivation static website
